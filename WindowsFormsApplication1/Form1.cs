@@ -16,6 +16,10 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
             MessageBox.Show("git");
+            //hanh viet code
+            MessageBox.Show("hanh");
+            //doan nay tue viet
+            MessageBox.Show("tue viet");
         }
     }
 }
